@@ -1,0 +1,2 @@
+An application that expects from the user a .csv file which should have at least a column named Address.
+The Python app will read that file and it will add a latitude and a longitude column which are calculated out of the Address column.
